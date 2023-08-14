@@ -1,6 +1,6 @@
 ### Hi, I'm Sam 👋
 
-* I'm a Staff Software Engineer at [WillowTree](https://www.willowtreeapps.com).
+* I'm a Principal Software Engineer at [WillowTree](https://www.willowtreeapps.com).
 * I focus on backend, APIs, and [continuous delivery](https://continuousdelivery.com).
 * I have worked on a bunch of different platforms. Check out my [resume](https://www.linkedin.com/in/samueldjones/).
 * It ain't much, but I have a personal site at [samjones.io](https://samjones.io).
